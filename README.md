@@ -1,3 +1,3 @@
 # AccessibilityStudyWithLLMs
 
-Resultuados
+Resultados
